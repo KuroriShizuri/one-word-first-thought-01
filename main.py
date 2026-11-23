@@ -6,7 +6,7 @@ that comes to mind.
 
 The word: psithurism — the sound of wind whispering through
 trees. A vivid, sensory word: it calls up a clear sound-image
-in eleven letters, it surprises (almost no reader would guess
+in ten letters, it surprises (almost no reader would guess
 it — unlike the expected answer, petrichor), and it is a real
 dictionary word, rare enough to feel chosen rather than generic.
 Surprise + vividness is exactly what the pairwise judge rewards.

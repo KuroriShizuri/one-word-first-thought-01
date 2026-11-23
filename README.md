@@ -13,7 +13,7 @@ interesting word takes the reward.
 **psithurism** — the sound of wind whispering through trees.
 
 Why this word: it is vivid and sensory, calling up a clear sound-image
-in eleven letters; it surprises, since almost no reader would guess
+in ten letters; it surprises, since almost no reader would guess
 it — the expected answer to "name an interesting word" is petrichor,
 and the judge explicitly rewards a word "a reader would not have
 guessed, rather than the safe or expected one"; and it is a real
