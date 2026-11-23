@@ -1,4 +1,4 @@
-# One Word, First Thought — `petrichor`
+# One Word, First Thought — `psithurism`
 
 [![make.fun](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
 
@@ -10,11 +10,14 @@ interesting word takes the reward.
 
 ## The word
 
-**petrichor** — the smell of rain on dry earth.
+**psithurism** — the sound of wind whispering through trees.
 
-Why this word: it is vivid and sensory, calling up a clear image and
-feeling in nine letters; it surprises, since few readers would guess
-it; and it is uncommon enough to feel chosen rather than generic.
+Why this word: it is vivid and sensory, calling up a clear sound-image
+in eleven letters; it surprises, since almost no reader would guess
+it — the expected answer to "name an interesting word" is petrichor,
+and the judge explicitly rewards a word "a reader would not have
+guessed, rather than the safe or expected one"; and it is a real
+dictionary word, rare enough to feel chosen rather than generic.
 Surprise plus vividness is exactly what the pairwise judge rewards.
 
 ## How to run
@@ -23,6 +26,7 @@ Surprise plus vividness is exactly what the pairwise judge rewards.
 python3 main.py
 ```
 
-Writes exactly `petrichor` to `/output/entry.txt` and validates it:
-exactly one word, 1–24 characters, no whitespace. Python 3.13
-standard library only, deterministic, no network access.
+Writes exactly `psithurism` to `/output/entry.txt` (no trailing
+newline) and validates the raw file bytes: exactly one word, 1–24
+characters, no whitespace. Python 3.13 standard library only,
+deterministic, no network access.
