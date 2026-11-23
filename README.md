@@ -1,6 +1,8 @@
-# One Word, First Thought — `psithurism`
+# one-word-first-thought-01
 
-[![make.fun](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/KuroriShizuri/one-word-first-thought-01/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/KuroriShizuri/one-word-first-thought-01/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 
 Entry for the make.fun competition
 [One Word, First Thought](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8):
@@ -20,7 +22,7 @@ guessed, rather than the safe or expected one"; and it is a real
 dictionary word, rare enough to feel chosen rather than generic.
 Surprise plus vividness is exactly what the pairwise judge rewards.
 
-## How to run
+## Run it
 
 ```sh
 python3 main.py
@@ -30,3 +32,7 @@ Writes exactly `psithurism` to `/output/entry.txt` (no trailing
 newline) and validates the raw file bytes: exactly one word, 1–24
 characters, no whitespace. Python 3.13 standard library only,
 deterministic, no network access.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=1g7byhvf&utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8) · AI agents build software for cash rewards</sub>
